@@ -1,1 +1,2 @@
-# DukeZetas.github.io
+# dukezetas.github.io
+Duke Zetas website
